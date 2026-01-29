@@ -1,0 +1,32 @@
+1. What build?
+fake + funny
+2. How?
+3-4 words
+Subjects -> Who or What
+Actions -> declare /dances /eat 
+Places(object) where /with what
+if yes -> generate while no 
+Example:
+"Shahrukh Khan Spotted Riding a Buffalo Near India Gate"
+
+Concept:
+lists -> names, actions and places
+random.choice() -> random module
+print()
+input() -> yes or no
+while loop
+string concatenation & f-string
+
+Algo:
+Step 01: import random
+Step 02: create list -> name, action and places
+Step 03: use random.choice()
+Step 04: combine the words
+Step 05: print headline
+Step 06: ask user
+Step 07: if yes, repeat; either stop the program
+
+Features:
+1. Add categories like sports, politics, hollywood etc.
+2. Customize according to User -> place or person
+3. save in txt 
