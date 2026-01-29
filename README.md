@@ -31,7 +31,8 @@ A fun and beginner-friendly Python project that generates random news headlines 
 news-headline-generator/
 │
 ├── main.py
-└── README.md
+├── README.md
+└── project's outcome.txt
 
 ---
 
